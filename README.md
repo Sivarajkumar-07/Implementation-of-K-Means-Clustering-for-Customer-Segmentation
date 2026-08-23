@@ -110,7 +110,8 @@ plt.show()
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+
+<img width="630" height="684" alt="image" src="https://github.com/user-attachments/assets/f07d46a1-c9be-4643-b715-1e0b2a17fac6" />
 
 
 ## Result:
