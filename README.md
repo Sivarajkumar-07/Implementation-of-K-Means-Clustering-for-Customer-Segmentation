@@ -29,8 +29,8 @@ To write a Python program to implement K-Means Clustering for customer segmentat
 # Program to implement K-Means Clustering
 # for Customer Segmentation.
 #
-# Developed by:
-# RegisterNumber:
+# Developed by: SIVARAJKUMAR V
+# RegisterNumber: 212224250016
 
 import pandas as pd
 import matplotlib.pyplot as plt
